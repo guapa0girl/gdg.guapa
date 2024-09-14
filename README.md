@@ -5,7 +5,7 @@
 I am a **2nd-year Computer Scinence** student at **SeoulTech**. I aspire to delve into the study of **front-end development** and **design**.
 
 > **Go GDG on Campus : Seoultech**
-> Let's creat an amazing project together!!
+> Let's creat an amazing project together!!.
 
 ## Expertise
 
